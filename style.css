@@ -1,0 +1,7 @@
+.tabuleiro {
+	border: 1px;
+	padding: 0px;
+	margin: 0px;
+	border-spacing: 2px !important;
+	border-collapse: separate;
+}
